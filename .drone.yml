@@ -24,7 +24,7 @@ steps:
 - name: monde
   image: alpine:3.8
   commands:
-  - echo monde
+  - echo Hello World!!!
   - sleep 60
 
 services:
